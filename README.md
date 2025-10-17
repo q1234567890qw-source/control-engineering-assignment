@@ -6,28 +6,26 @@
 
 <img width="726" height="200" alt="image" src="https://github.com/user-attachments/assets/7757142f-525a-407a-b8c8-183f2636bbc8" />
  <img width="683" height="350" alt="image" src="https://github.com/user-attachments/assets/f2071f6f-0c4d-4b2c-8cc7-90b0ce57b503" />
-
-## ⚙️ 시스템 설명
-
-- 질량: \( M \)  
-- 감쇠 계수: \( b \)  
-- 스프링 상수: \( k \)  
-- 외력: \( F(t) \)  
-- 변위: \( y(t) \)
-
-시스템의 운동방정식은 다음과 같다.
----
-M * y''(t) + b * y'(t) + k * y(t) = F(t)
-
-
-## (a) 상태변수 설정
-
-이 식은 2차 미분방정식이므로 상태변수를 2개로 정의한다.
-
-상태 변수 x(t)= 
-## (b) 상태변수로 표현한 1차 미분방정식
+<img width="737" height="697" alt="image" src="https://github.com/user-attachments/assets/d34cf3fb-dca0-4bbb-97b5-c02f6c86db17" />
 
 
 
-## (c) 상태미분방정식 (State-Space Form)
+<img width="760" height="611" alt="image" src="https://github.com/user-attachments/assets/26b8c2f5-df93-49d3-a6ff-58927e1da78d" />
+<img width="488" height="702" alt="image" src="https://github.com/user-attachments/assets/d4f1ac1b-b357-4262-9157-2147f4194848" />
+
+
+
+
+<img width="755" height="144" alt="image" src="https://github.com/user-attachments/assets/14d3eca3-0ea8-49df-9159-2439e38b48ce" />
+<img width="900" height="251" alt="image" src="https://github.com/user-attachments/assets/b42a9415-8ff3-4416-bb28-b3393b5367e8" />
+<img width="586" height="738" alt="image" src="https://github.com/user-attachments/assets/c3a28382-900a-4b22-a74b-17a6cbd80b25" />
+
+
+<img width="562" height="200" alt="image" src="https://github.com/user-attachments/assets/6dc5e0d7-e524-4b8f-9ec8-8730d568a4be" />
+<img width="566" height="701" alt="image" src="https://github.com/user-attachments/assets/23188a48-3c64-4940-8a44-dd57eda26b08" />
+<img width="580" height="204" alt="image" src="https://github.com/user-attachments/assets/633de9da-642e-48b1-b50f-5f266d2464f5" />
+
+
+<img width="551" height="277" alt="image" src="https://github.com/user-attachments/assets/2673aeca-b14e-4315-a7b4-d93fcaa1f5e7" />
+<img width="574" height="365" alt="image" src="https://github.com/user-attachments/assets/fe4b27d0-fafd-47b5-bdd8-a3619ea0914f" />
 
