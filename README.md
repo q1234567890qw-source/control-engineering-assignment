@@ -13,7 +13,7 @@
 - 입력이 상태에 영향을 주고, 상태는 다시 출력으로 반영됨  
 - 시스템의 동적 특성을 수학적으로 표현할 때 상태변수가 핵심 역할을 함  
 
-## ⚙️ 2. 예제 1 : 질량-스프링-댐퍼 시스템 (Spring-Mass-Damper System)
+##  2. 예제 1 : 질량-스프링-댐퍼 시스템 (Spring-Mass-Damper System)
 
 **구성요소**  
 - 질량 M, 스프링 상수 k, 감쇠 계수 b, 외력 r(t)
@@ -30,12 +30,12 @@
 > dx₂/dt = -(b/M)x₂ - (k/M)x₁ + (1/M)r(t)  
 > 출력: y(t) = x₁(t)
 
-📎 **해석:**  
+ **해석:**  
 2차 미분방정식을 1차 미분방정식 두 개로 분리하여 상태공간 형태로 표현.
 
 ---
 
-## ⚡ 3. 예제 2 : R–L–C 회로 (RLC Circuit System)
+##  3. 예제 2 : R–L–C 회로 (RLC Circuit System)
 
 **구성요소**  
 전류원 u(t), 인덕터 L, 저항 R, 커패시터 C  
@@ -60,7 +60,7 @@ RLC 회로의 동적 관계를 KCL과 KVL로부터 유도하여 상태방정식�
 
 ---
 
-## 📈 4. 1차 상태미분방정식 (1st Order State Differential Equation)
+##  4. 1차 상태미분방정식 (1st Order State Differential Equation)
 
 **기본 형태**  
 > dx/dt = a·x(t) + b·u(t)
