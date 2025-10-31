@@ -5,8 +5,6 @@
 #  5주차 1차시 강의 요약  
 ### 주제: 상태변수(State Variables)와 상태공간방정식(State Space Equation)
 
----
-
 ##  1. 상태변수의 개념 (The Concept of State Variables)
 - **상태변수(State Variable)** : 시스템의 현재 상태를 완전히 나타내는 최소 개수의 변수  
 - 시스템은 **입력(Input)** → **상태(State)** → **출력(Output)** 으로 구성됨  
